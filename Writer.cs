@@ -1,4 +1,4 @@
-using Console = Colorful.Console;
+using System;
 
 public static class Writer
 {
