@@ -16,7 +16,7 @@ namespace chat
 
         static async Task AsyncMain()
         {
-            await client.Connect(new Uri("ws://localhost:9000"));
+            await client.Connect(new Uri("ws://localhost:10000"));
         }
 
     }
